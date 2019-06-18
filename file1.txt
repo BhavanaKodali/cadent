@@ -1,0 +1,7 @@
+alpha
+anchor
+azure
+beta
+dog
+egg
+envelope
